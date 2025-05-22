@@ -97,7 +97,10 @@ VirtualWorldCpp/
 
 ## Autor
 
-Igor Tomkowicz
+* **Igor Tomkowicz**
+* GitHub: [npnpdev](https://github.com/npnpdev)
+* LinkedIn: [Igor Tomkowicz](https://www.linkedin.com/in/igor-tomkowicz-a5760b358/)
+* E-mail: npnpdev@gmail.com
 
 ---
 
